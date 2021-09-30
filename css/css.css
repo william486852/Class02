@@ -1,0 +1,151 @@
+body {
+	margin: 0 auto;
+	width: 800px;
+	padding: 0;
+	background: #ffffff;
+	font-family: Helvetica, sans-serif;
+	font-size: 62.5%;
+	color: rgb(0, 0, 0);
+}
+
+
+h1, h2, p, ul, li {
+	margin: 0;
+	padding: 0;
+}
+
+a{
+	text-decoration: none;
+}
+
+
+ul {
+	list-style-type: none;
+}
+
+ #header{
+	background: url(../0924-HW/images/scale.jpg) center ;
+	background-size: 103%;
+	height: 150px;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+#header a:visited{
+    color: rgb(255, 255, 255);
+}
+
+#logo #black{
+	font-size:40px;
+	color: rgb(0, 0, 0);
+	margin: 0 0 0 15px;
+}
+
+#logo #WHITE{
+	font-size:40px;
+	color: rgb(255, 255, 255);
+}
+
+#logo #metamorph{
+	font-size:10px;
+	color: rgb(255, 255, 255);
+	margin: 0 0 0 15px;
+}
+
+#home {
+	background-color: #000;
+	height: 25px;
+	width: 100%;
+	padding: 0;
+	margin: 0 0 15px 0;
+	font-size: 15px;
+	text-align: center;
+	padding: 10px 0 0 0;
+
+}
+#home scan{
+	margin: 0 50px;
+	color: rgb(255, 255, 255);
+}
+
+#home a:visited,#home a{
+	color: rgb(255, 255, 255);
+}
+#home a:hover{
+	color: rgb(56, 56, 56);
+}
+#mid #title{
+	font-size:40px;
+}
+
+#mid #content{
+	font-size:20px;
+}
+
+#left{
+	width: 200px;
+	height: 800px;
+	float: left;
+	margin: 0 15px 0 0;
+}
+#left #L2 #new #tt{
+	font-size:20px;
+	font-weight: bolder;
+	margin: 20px 0 0 0;
+}
+
+#left #L2 #new #cc{
+	font-size:10px;
+	text-decoration: underline #000 solid 1px;
+	margin: 0 0 20px 0;
+	
+}
+#left #L2 #new #black{
+	background-color: #000;
+	height: 25px;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	font-size: 15px;
+	text-align: center;
+	padding: 10px 0 0 0;
+	font-size:15px;
+	color: rgb(255, 255, 255);
+}
+#left #L1 #login #black{
+	background-color: #000;
+	height: 25px;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	font-size: 15px;
+	text-align: center;
+	padding: 10px 0 0 0;
+	font-size:15px;
+	color: rgb(255, 255, 255);
+}
+
+#footer{
+	background-color: #000;
+	height: 25px;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	font-size: 15px;
+	text-align: center;
+	padding: 10px 0 0 0;
+	font-size:15px;
+	color: rgb(255, 255, 255);
+}
+
+#left #L1 #Lmane {
+	height: 25px;
+	width: 100%;
+	padding: 0;
+	margin: 0 0 15px 0;
+	font-size: 15px;
+	padding: 10px 0 0 0;
+	color: rgb(0, 0, 0);
+
+}
